@@ -1,0 +1,16 @@
+# Python:
+*.py[cod]
+*.so
+*.egg
+*.egg-info
+dist
+build
+venv/
+
+# vscode:
+.vscode/
+__pycache__/
+.ipynb_checkpoints/
+
+# My configurations:
+venv
